@@ -22,4 +22,4 @@ A Car Management System written in C that allows users to perform various operat
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/car-management-system.git
+   git clone https://github.com/baaallam/car-management-system.git
